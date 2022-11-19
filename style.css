@@ -1,0 +1,100 @@
+.card{
+    width: 270px;
+    height: 254px;
+    margin: 0 0 0 168.6px;
+    padding: 61px 60px 169px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 30px 0 rgba(203, 200, 200, 0.25);
+    background-color: #fff;
+    position:absolute;
+    right:131px; 
+    top:80px;
+  }
+  #signup.card{
+    height: 330px;
+  }
+  
+  
+  .heading{
+  
+    font-family: CrimsonPro-Regular;
+    font-size: 22px;
+    text-align: center;
+    color: #da6b00;
+  }
+  
+  .details{
+    font-family: CrimsonPro-Light;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+    text-align: center;
+    color: #464749;
+  }
+  
+  .input{
+    position:absolute;
+    left: 37px;
+  }
+  
+  #email.p.details{
+    font-size: 14px;
+    color:#373535 ;
+    text-align: left;
+    position: absolute;
+    top: 20px;
+    line-height: 0;
+  
+  }
+   .p#password.details{
+    font-size: 14px;
+    color:#373535 ;
+    text-align: bottom;
+    position: absolute;
+    top: 20px;
+    line-height: 10;
+  }
+  #confirmpsw.p.details{
+    font-size: 14px;
+    color:#373535 ;
+    text-align:right;
+    position: absolute;
+    top: 20px;
+    line-height: 20;
+  }
+  
+
+  
+  button{
+    width: 310px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: #ffc78e;
+    position: absolute;
+    left: 10%;
+    top: 250px;
+    font-family: CrimsonPro-Medium;
+    font-size: large;
+    font-weight:200;
+    border-color:#ffc78e;
+    padding: 60px, 120px, 60px, 45px;
+  }
+  
+  .addons{
+    font-family: CrimsonPro-Light;
+    color: #da6b00;
+    position: absolute;
+    top:87%;
+    left:38%;
+    text-align: center;
+    font-weight: 300;
+    
+    
+  }
+  
+  .vector{
+    position: absolute;
+    top: 20%;
+    left:10%;
+  }
+  
